@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Abdullah Kaan
 
 <!--
 **AbdKaan/AbdKaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- I have been using python for machine learning and creating bots
+- I'm currently working on creating servers using go, postgresql
+- Getting experience with docker and cicd using github workflow
+- Looking for job, reach me: abdullah.kaan75@gmail.com
